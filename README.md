@@ -6,3 +6,7 @@ Visualization for hypertext. Personal Operating System of Concepts and Interpret
 **Model:** Pair
 
 **Сomputer Model:** Oriented Pair
+
+**Object:** Mental Focus
+
+**Frame:** Object (Terminological Alias , Synonym)
