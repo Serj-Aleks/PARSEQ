@@ -1,6 +1,8 @@
 # PARSEQ
 Visualization for hypertext. Personal Operating System of Concepts and Interpretations.
 
+[[Welcome to the PARSEQ wiki!]]
+
 **PARSEQ** - Abbreviation for pair sequence  [*](https://mistysystem.com/doc/parseq.html)
 
 **Model:** Pair **Сomputer Model:** Oriented Pair
