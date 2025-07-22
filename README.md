@@ -13,4 +13,4 @@ Visualization for hypertext. Personal Operating System of Concepts and Interpret
 
 [The concept of personal software from the perspective of an individual intellectual profile, a personal knowledge base](https://github.com/Serj-Aleks/PARSEQ/wiki/The-concept-of-personal-software-from-the-perspective-of-an-individual-intellectual-profile,-a-personal-knowledge-base)
 
-[ASON-specefication]()
+[ASON-specefication](https://github.com/Serj-Aleks/PARSEQ/wiki/ASON-specefication)
