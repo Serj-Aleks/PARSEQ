@@ -16,3 +16,5 @@ Visualization for hypertext. Personal Operating System of Concepts and Interpret
 [ASON-specefication](https://github.com/Serj-Aleks/PARSEQ/wiki/ASON-specefication)
 
 [PARSEQ v0.1.1 Spec](https://github.com/Serj-Aleks/PARSEQ/wiki/PARSEQ-v0.1.1-Spec)
+
+[TiddlyDAG](https://github.com/Serj-Aleks/PARSEQ/wiki/TiddlyDAG)
