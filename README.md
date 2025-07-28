@@ -20,3 +20,5 @@ Visualization for hypertext. Personal Operating System of Concepts and Interpret
 [TiddlyDAG](https://github.com/Serj-Aleks/PARSEQ/wiki/TiddlyDAG)
 
 [Go-Rye](https://github.com/Serj-Aleks/PARSEQ/wiki/Go-Rye)
+
+[Basic tech stack](https://github.com/Serj-Aleks/PARSEQ/wiki/Basic-tech-stack)
