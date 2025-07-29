@@ -22,3 +22,5 @@ Visualization for hypertext. Personal Operating System of Concepts and Interpret
 [Go-Rye](https://github.com/Serj-Aleks/PARSEQ/wiki/Go-Rye)
 
 [Basic tech stack](https://github.com/Serj-Aleks/PARSEQ/wiki/Basic-tech-stack)
+
+[Map & DAG](https://github.com/Serj-Aleks/PARSEQ/wiki/Map-&-Dag)
