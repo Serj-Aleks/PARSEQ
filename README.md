@@ -24,3 +24,9 @@ Visualization for hypertext. Personal Operating System of Concepts and Interpret
 [Basic tech stack](https://github.com/Serj-Aleks/PARSEQ/wiki/Basic-tech-stack)
 
 [Map & DAG](https://github.com/Serj-Aleks/PARSEQ/wiki/Map-&-Dag)
+
+**Road map**
+
+1. **PARSEQ**
+2. [PARADIGMA](https://paradigma.tiddlyhost.com) (Metamodeling)
+3. Transformation of the browser in the metal bar as a personal desktop with a persistent database (architecture) and with a graph on the canvas by default (interface)
