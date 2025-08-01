@@ -25,10 +25,11 @@ Visualization for hypertext. Personal Operating System of Concepts and Interpret
 
 [Map & DAG](https://github.com/Serj-Aleks/PARSEQ/wiki/Map-&-Dag)
 
+---
+[Additions of the most general nature](https://github.com/Serj-Aleks/PARSEQ/wiki/Additions-of-the-most-general-nature)
+
 **Road map**
 
 1. **PARSEQ**
 2. [PARADIGMA](https://paradigma.tiddlyhost.com) (Metamodeling)
 3. Transformation of the browser in the metal bar as a personal desktop with a persistent database (architecture) and with a graph on the canvas by default (interface)
-
-Additions of the most general nature
